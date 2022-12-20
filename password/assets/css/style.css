@@ -1,0 +1,18 @@
+.pass{
+    width: 15%;
+    height: 45px;
+    margin-left: 45%;
+    margin-top: 15%;
+    border: 3px solid gray;
+}
+
+.pa{
+    position: relative;
+}
+
+.pa{
+    position: absolute;
+    right: 41%;
+    top: 34.1%;
+}
+

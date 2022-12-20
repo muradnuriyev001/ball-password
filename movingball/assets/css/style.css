@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(123,52,98);
+    background: linear-gradient(90deg, rgba(123,52,98,1) 0%, rgba(85,101,180,1) 0%, rgba(98,84,152,1) 0%);
+}
+
+.balldiv{
+    width: 75%;
+    height: 700px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    margin-left: 12%;
+    position: relative;
+    margin-top: 1.2%;
+}
+
+.navbuttons{
+    width: 40%;
+    height: 260px;
+    margin-left: 28%;
+    position: relative;
+}
+
+.navbuttons img{
+    width: 50%;
+}
+
+.imgdiv{
+    position: absolute;
+    left: 40%;
+    top: 1%;
+}
+
+.ball{
+    width: 300px;
+    height: 300px;
+    background-color: cyan;
+    border-radius: 50%;
+    position: absolute;
+    left: 40%;
+    top: 25%;
+
+}
